@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: 46471cfdc021dd145a86abcd3d2c919b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3009304931793678860
+    second: Sanglorian&#039;s trainer sprites_0
+  - first:
+      213: 2039771728316835116
+    second: Sanglorian&#039;s trainer sprites_1
+  - first:
+      213: -3871272500530512063
+    second: Sanglorian&#039;s trainer sprites_2
+  - first:
+      213: 599566358940555367
+    second: Sanglorian&#039;s trainer sprites_3
+  - first:
+      213: -1186247954982311678
+    second: Sanglorian&#039;s trainer sprites_4
+  - first:
+      213: 6431242348935937122
+    second: Sanglorian&#039;s trainer sprites_5
+  - first:
+      213: 1066861990589605040
+    second: Sanglorian&#039;s trainer sprites_6
+  - first:
+      213: -8527079309349282603
+    second: Sanglorian&#039;s trainer sprites_7
+  - first:
+      213: -6441893035629032393
+    second: Sanglorian&#039;s trainer sprites_8
+  - first:
+      213: -7313961566609428896
+    second: Sanglorian&#039;s trainer sprites_9
+  - first:
+      213: -2710163229773872722
+    second: Sanglorian&#039;s trainer sprites_10
+  - first:
+      213: -2804279599466422761
+    second: Sanglorian&#039;s trainer sprites_11
+  - first:
+      213: -6174472050366588179
+    second: Sanglorian&#039;s trainer sprites_12
+  - first:
+      213: -6122458932603577548
+    second: Sanglorian&#039;s trainer sprites_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sanglorian&#039;s trainer sprites_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 70
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02b46834e233c920800000000000000
+      internalID: 3009304931793678860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanglorian&#039;s trainer sprites_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 65
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25a5396499be4c10800000000000000
+      internalID: 2039771728316835116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanglorian&#039;s trainer sprites_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 66
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ff321fb2a764ac0800000000000000
+      internalID: -3871272500530512063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanglorian&#039;s trainer sprites_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 66
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7681de34d66125800800000000000000
+      internalID: 599566358940555367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanglorian&#039;s trainer sprites_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 64
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209eebb15c9998fe0800000000000000
+      internalID: -1186247954982311678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanglorian&#039;s trainer sprites_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 67
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c76c897dc504950800000000000000
+      internalID: 6431242348935937122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanglorian&#039;s trainer sprites_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 64
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4a575f3514ece00800000000000000
+      internalID: 1066861990589605040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanglorian&#039;s trainer sprites_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 8
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc17aaeb8ab9a980800000000000000
+      internalID: -8527079309349282603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanglorian&#039;s trainer sprites_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cc44a2a6cc996a0800000000000000
+      internalID: -6441893035629032393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanglorian&#039;s trainer sprites_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 4
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ea269c4b69f7a90800000000000000
+      internalID: -7313961566609428896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanglorian&#039;s trainer sprites_10
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1c00ec6e0936ad0800000000000000
+      internalID: -2710163229773872722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanglorian&#039;s trainer sprites_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71eddeedf823519d0800000000000000
+      internalID: -2804279599466422761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanglorian&#039;s trainer sprites_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 3
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea525a426edf4aa0800000000000000
+      internalID: -6174472050366588179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sanglorian&#039;s trainer sprites_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b1f3af908a80ba0800000000000000
+      internalID: -6122458932603577548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b85e4d4a5fa9ab2438415bba39868d9e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Sanglorian&#039;s trainer sprites_0: 3009304931793678860
+      Sanglorian&#039;s trainer sprites_1: 2039771728316835116
+      Sanglorian&#039;s trainer sprites_10: -2710163229773872722
+      Sanglorian&#039;s trainer sprites_11: -2804279599466422761
+      Sanglorian&#039;s trainer sprites_12: -6174472050366588179
+      Sanglorian&#039;s trainer sprites_13: -6122458932603577548
+      Sanglorian&#039;s trainer sprites_2: -3871272500530512063
+      Sanglorian&#039;s trainer sprites_3: 599566358940555367
+      Sanglorian&#039;s trainer sprites_4: -1186247954982311678
+      Sanglorian&#039;s trainer sprites_5: 6431242348935937122
+      Sanglorian&#039;s trainer sprites_6: 1066861990589605040
+      Sanglorian&#039;s trainer sprites_7: -8527079309349282603
+      Sanglorian&#039;s trainer sprites_8: -6441893035629032393
+      Sanglorian&#039;s trainer sprites_9: -7313961566609428896
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
